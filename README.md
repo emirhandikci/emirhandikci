@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, React.js, MongoDB**
 
-- 📝 I regularly write articles on [https://www.buymeacoffee.com/emirhandikci](https://consolewriteline.net/)
+- 📝 I regularly write articles on [https://consolewriteline.net/](https://consolewriteline.net/)
 
 - 💬 Ask me about **UX Writing, CSS, JavaScript**
 

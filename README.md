@@ -26,6 +26,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/emirhandikci"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emirhandikci" /></a></p><br><br>
 
-<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirhandikci&show_icons=true&locale=en&layout=compact" alt="emirhandikci" /></p>
-
+<br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=emirhandikci&show_icons=true&locale=en" alt="emirhandikci" /></p>

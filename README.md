@@ -27,4 +27,4 @@
 <p><a href="https://www.buymeacoffee.com/emirhandikci"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emirhandikci" /></a></p><br><br>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirhandikci&show_icons=true&theme=onedark&locale=en" alt="emirhandikci" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirhandikci&show_icons=true&theme=tokyonight&locale=en" alt="emirhandikci" /></p>

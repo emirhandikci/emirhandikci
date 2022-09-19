@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhandikci" alt="emirhandikci" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/emirhandikci" target="blank"><img src="https://img.shields.io/twitter/follow/emirhandikci?logo=twitter&style=for-the-badge" alt="emirhandikci" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js, React.js, MongoDB**
